@@ -1,0 +1,24 @@
+h1 {
+    animation: infinite;
+    transition-duration: 10s;
+    transition-property: all;
+    background-position: 0px;
+    background-image: url(./img/1563572.gif);
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    width: 70px;
+    height: 40px;
+    display: block;
+    color: violet;
+    border-top-left-radius: 50%;
+    text-align: center;
+}
+
+.txt {
+    text-shadow: 1px 1px 2px #000;
+}
+
+#txt2 {
+    text-shadow: 1px 1px 2px #000, 2px 2px 4px #fff;
+}
